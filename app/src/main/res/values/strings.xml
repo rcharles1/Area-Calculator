@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Area Calculator</string>
+    <string name="hint_enter_radius">Enter radius</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="dialog_message_area"> The Area is %f</string>
+
+</resources>
